@@ -3,3 +3,7 @@
 *.bck
 *.kicad_pcb-bak
 *.sch-bak
+
+.history/
+**/.history/
+*.lck
