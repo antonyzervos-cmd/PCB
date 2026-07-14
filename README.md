@@ -1,3 +1,3 @@
 # PCB PROJECT
-![SCHEMATIC](pcb images/schematic.png)
-![PCB](pcb images/pcb.png)
+![SCHEMATIC](pcb%20images/schematic.png)
+![PCB](pcb%20images/pcb.png)
